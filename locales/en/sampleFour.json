@@ -1,0 +1,20 @@
+{
+  "name": "Martin D'vloper",
+  "job": "Developer",
+  "skill": "Elite",
+  "employed": true,
+  "foods": [
+    "Apple",
+    "Orange",
+    "Strawberry",
+    "Mango"
+  ],
+  "languages": {
+    "perl": "Elite",
+    "python": "Elite",
+    "pascal": "Lame"
+  },
+  "education": "4 GCSEs\n3 A-Levels\nBSc in the Internet of Things\n",
+  "tagline": "Just do it:\nSMILE\nand be\nhappy",
+  "segmentation": "This is a very long sentence for segmentation. Another segment. And another one. And the final one. And do not forget about me!!! List: check the colon rules."
+}

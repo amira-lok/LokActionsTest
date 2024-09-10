@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="cancelBtn">Cancel</string>
+  <plurals name="native_payments_live_credits">
+<item quantity="zero">%1$d Live Credit</item>
+<item quantity="one">%1$d Live Credit</item>
+<item quantity="two">%1$d Live Credits</item>
+<item quantity="many">%1$d Live Credits</item>
+<item quantity="few">%1$d Live Credits</item>
+<item quantity="other">%1$d Live Credits</item>
+</plurals>
+</resources>
