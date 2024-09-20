@@ -1,0 +1,20 @@
+{
+  "education": "4 GCSE\\n 3 niveles A\\n Licenciatura en Internet de las Cosas\\n",
+  "employed": "1",
+  "foods": [
+    "Manzana",
+    "Naranja",
+    "Fresa",
+    "mango"
+  ],
+  "job": "Revelador",
+  "languages": {
+    "pascal": "Aburrido",
+    "perl": "Élite",
+    "python": "Élite"
+  },
+  "name": "Martín D'vloper",
+  "segmentation": "Esta es una frase muy larga para segmentar. Otro segmento. Y otro más. Y el último. ¡Y no se olviden de mí! Lista: revisen las reglas de los dos puntos.",
+  "skill": "Élite",
+  "tagline": "Hazlo:\\n SONRISA\\n y ser\\n feliz"
+}
