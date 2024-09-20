@@ -1,0 +1,20 @@
+{
+  "education": "4 GCSE\\n 3 A-Level\\n Laurea triennale in Internet delle cose\\n",
+  "employed": "1",
+  "foods": [
+    "Mela",
+    "Arancia",
+    "Fragola",
+    "Mango"
+  ],
+  "job": "Sviluppatore",
+  "languages": {
+    "pascal": "Zoppo",
+    "perl": "Elite",
+    "python": "Elite"
+  },
+  "name": "Martin D'vloper",
+  "segmentation": "Questa è una frase molto lunga per la segmentazione. Un altro segmento. E un altro ancora. E quello finale. E non dimenticarti di me!!! Elenco: controlla le regole dei due punti.",
+  "skill": "Elite",
+  "tagline": "Fallo e basta:\\n SORRISO\\n e sii\\n Contento"
+}

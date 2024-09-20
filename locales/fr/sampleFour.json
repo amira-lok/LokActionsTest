@@ -1,0 +1,20 @@
+{
+  "education": "4 GCSE\\n 3 niveaux A\\n Licence en Internet des Objets\\n",
+  "employed": "1",
+  "foods": [
+    "Pomme",
+    "Orange",
+    "Fraise",
+    "mangue"
+  ],
+  "job": "Promoteur",
+  "languages": {
+    "pascal": "Boiteux",
+    "perl": "Élite",
+    "python": "Élite"
+  },
+  "name": "Martin D'vloper",
+  "segmentation": "C'est une phrase très longue à segmenter. Encore un segment. Et encore un autre. Et le dernier. Et ne m'oubliez pas !!! Liste : vérifiez les règles des deux points.",
+  "skill": "Élite",
+  "tagline": "Fais-le c'est tout:\\n SOURIRE\\n et être\\n heureux"
+}
