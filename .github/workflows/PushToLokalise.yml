@@ -16,7 +16,7 @@ jobs:
         uses: bodrovis/Lok-Actions/actions/push@master
         with:
           api_token: ${{ secrets.LOKALISE_API_TOKEN }}
-          project_id: 5868381966b39e5053ff15.63486389
+          project_id: 5007330766e058e0bed4d3.26377346
           base_lang: en
           translations_path: locales
           file_format: json
